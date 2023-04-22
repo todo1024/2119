@@ -1,2 +1,138 @@
 # 2119
 沃顿商学院 商业分析全套课程
+### 微:NoBug1024 
+
+
+课程介绍：
+
+〖课程目录〗:
+
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_comparing-decisions-in-uncertain-settings.mp4  23.20M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_course-introduction-and-overview.mp4  10.77M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_course-introduction-and-welcome.mp4  5.34M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_decision-trees.mp4  38.88M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_how-to-build-an-optimization-model.mp4  28.04M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_introduction-connecting-numbers-to-non-financial-performance-measures-4-0.mp4  6.87M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_introduction-to-application-to-analytics.mp4  16.37M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_introduction-to-people-analytics.mp4  55.67M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_introduction-to-predictive-analytics.mp4  12.16M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_introduction-to-professor-bidwell.mp4  1.14M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_introduction-to-professor-haas.mp4  2.83M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_introduction.mp4  2.23M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_module-1-overview-1-0.mp4  5.27M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_module-3-overview-3-0.mp4  12.40M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_module-overview-earnings-management-2-0.mp4  8.48M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_ratio-analysis-case-overview-1-3.mp4  17.77M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_talent-analytics-the-importance-of-context.mp4  25.66M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 01_what-is-descriptive-analytics.mp4  16.23M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_asking-predictive-questions.mp4  10.84M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_basics-of-collaboration.mp4  8.82M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_descriptive-data-collection-survey-overview.mp4  30.59M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_discretionary-accruals-model-3-1.mp4  43.90M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_goals-for-the-course.mp4  3.82M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_interdependence.mp4  14.26M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_linking-non-financial-metrics-to-financial-performance-overview-4-1.mp4  31.66M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_optimizing-with-solver.mp4  58.03M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_overview-of-earnings-management-2-1.mp4  30.48M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_overview-of-the-business-analytics-specialization.mp4  6.63M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_ratio-analysis-dupont-analysis-1-4.mp4  30.78M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_review-of-financial-statements-optional-1-1.mp4  26.08M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_simulating-uncertain-outcomes-in-excel.mp4  42.80M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_staffing-analytics-overview.mp4  4.69M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_the-future-of-marketing-is-business-analytics.mp4  15.52M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_the-newsvendor-problem.mp4  59.59M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_using-simulation-with-decision-trees.mp4  39.00M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 02_what-is-prescriptive-analytics.mp4  11.09M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_course-outline-and-overview.mp4  11.27M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_describing-collaboration-networks.mp4  26.90M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_descriptive-data-collection-net-promoter-score-and-self-reports.mp4  23.56M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_discretionary-accruals-cases-3-2.mp4  30.19M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_hiring-1-predicting-performance.mp4  19.85M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_interpreting-and-visualizing-simulation-output.mp4  66.08M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_moving-averages.mp4  70.20M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_network-optimization-example.mp4  34.04M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_ratio-analysis-profitability-and-turnover-ratios-1-5.mp4  39.24M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_regression-analysis-part-1-the-demand-curve.mp4  8.80M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_revenue-recognition-red-flags-revenue-before-cash-collection-2-2.mp4  35.74M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_self-fulfilling-prophecies.mp4  21.63M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_sources-for-financial-statement-information-optional-1-2.mp4  14.17M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_steps-to-linking-non-financial-metrics-to-financial-performance-4-2.mp4  36.62M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_the-golden-age-of-marketing.mp4  27.57M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_using-optimization-together-with-simulation.mp4  26.28M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 03_using-the-data-to-maximize-revenue.mp4  10.68M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_applications-roi.mp4  17.76M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_descriptive-data-collection-survey-design.mp4  26.63M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_discretionary-expenditures-models-3-3.mp4  24.04M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_hiring-2-fine-tuning-predictors.mp4  20.48M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_mapping-collaboration-networks.mp4  30.55M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_optional-week-2-review.mp4  35.56M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_optional-week-3-review.mp4  25.29M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_parameters-of-the-model.mp4  19.31M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_people-analytics-in-practice.mp4  11.13M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_ratio-analysis-liquidity-ratios-1-6.mp4  21.29M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_regression-analysis-part-2-making-predictions.mp4  7.86M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_revenue-recognition-red-flags-revenue-after-cash-collection-2-3.mp4  35.20M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_reverse-causality.mp4  10.11M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_setting-targets-4-3.mp4  22.69M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_trends-seasonality.mp4  78.08M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 04_week-4-wrap-up.mp4  25.94M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_beyond-period-2.mp4  30.41M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_comprehensive-examples-4-4.mp4  24.66M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_discretionary-expenditures-refinements-and-cases-3-4.mp4  27.77M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_evaluating-collaboration-networks.mp4  18.51M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_expense-recognition-red-flags-capitalizing-vs-expensing-2-4.mp4  39.34M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_forecasting-1-7.mp4  34.20M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_hiring-3-using-data-analysis-to-predict-performance.mp4  17.37M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_market-structure.mp4  16.76M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_optional-session-4-review.mp4  31.29M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_optional-solver-on-mac.mp4  6.68M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_passive-data-collection.mp4  7.97M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_performance-evaluation-the-challenge-of-noisy-data.mp4  14.45M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_radically-new-data-sets-in-marketing.mp4  13.27M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_special-topics-tests-and-algorithms.mp4  13.35M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 05_week-1-wrap-up-apparel-industry.mp4  24.05M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_accounting-based-valuation-optional-1-8.mp4  34.63M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_chance-vs-skill-the-nfl-draft.mp4  49.81M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_competition-and-online-advertising-models.mp4  11.27M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_expense-recognition-red-flags-reserve-accounts-and-write-offs-2-5.mp4  47.30M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_fraud-prediction-models-3-5.mp4  30.57M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_incorporating-analysis-results-in-financial-models-4-5.mp4  25.74M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_internal-mobility-1-analyzing-promotibility.mp4  11.07M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_making-predictions-using-a-data-set.mp4  21.88M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_measuring-outcomes.mp4  18.28M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_media-planning.mp4  15.90M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_optional-advanced-session-on-optimization.mp4  45.87M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_optional-solver-in-google-sheets.mp4  7.32M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_prescriptions-navigating-the-challenges-of-talent-analytics.mp4  34.32M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 06_the-perils-of-efficiency.mp4  20.56M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 07_analytics-applied-kohls-netflix-amex-and-more.mp4  27.32M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 07_benfords-law-3-6.mp4  34.62M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 07_causal-data-collection-and-summary.mp4  14.72M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 07_conclusion-s.mp4  8.63M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 07_course-conclusion-organizational-challenges-1.mp4  21.20M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 07_data-set-predictions-mary-sharmila-or-chris.mp4  29.71M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 07_finding-persistence-regression-to-the-mean.mp4  26.87M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 07_internal-mobility-2-optimizing-movement-within-the-organization.mp4  18.99M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 07_intervening-in-collaboration-networks.mp4  36.17M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 07_using-analytics-to-choose-action-plans-4-6.mp4  18.36M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 08_causality-1.mp4  11.65M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 08_conclusion.mp4  12.32M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 08_course-conclusion-organizational-challenges-2-and-future-directions.mp4  52.40M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 08_extrapolating-from-small-samples.mp4  13.22M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 08_organizational-issues-4-7.mp4  33.54M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 08_probability-models.mp4  33.04M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 09_causality-2.mp4  15.26M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 09_goodbye-and-good-luck.mp4  1.64M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 09_implementation-of-the-model.mp4  39.52M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 09_the-wisdom-of-crowds-signal-independence.mp4  13.39M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 10_attrition-understanding-and-reducing-turnover.mp4  23.47M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 10_process-vs-outcome.mp4  17.57M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 10_results-and-predictions.mp4  17.06M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 11_summary-of-performance-evaluation.mp4  8.10M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 11_turnover-predicting-attrition.mp4  17.72M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton 12_staffing-analytics-conclusion.mp4  1.83M
+- ├──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton Management by the Numbers.mp4  219.19M
+- └──【沃顿商学院】商业分析 全套课程（客户、运营、人力资源、会计）｜Business Analytics， Wharton What's Behind the Surge of  Interest in People Analytics.mp4  150.04M
+- 
+
+
